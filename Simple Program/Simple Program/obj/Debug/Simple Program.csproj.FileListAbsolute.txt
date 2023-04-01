@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Simple Program\Simple Program\bin\Debug\Simple Program.exe.config
+C:\Users\admin\source\repos\Simple Program\Simple Program\bin\Debug\Simple Program.exe
+C:\Users\admin\source\repos\Simple Program\Simple Program\bin\Debug\Simple Program.pdb
+C:\Users\admin\source\repos\Simple Program\Simple Program\obj\Debug\Simple Program.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Simple Program\Simple Program\obj\Debug\Simple Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Simple Program\Simple Program\obj\Debug\Simple_Program.Form1.resources
+C:\Users\admin\source\repos\Simple Program\Simple Program\obj\Debug\Simple_Program.Properties.Resources.resources
+C:\Users\admin\source\repos\Simple Program\Simple Program\obj\Debug\Simple Program.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Simple Program\Simple Program\obj\Debug\Simple Program.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Simple Program\Simple Program\obj\Debug\Simple Program.exe
+C:\Users\admin\source\repos\Simple Program\Simple Program\obj\Debug\Simple Program.pdb
